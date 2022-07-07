@@ -9,7 +9,7 @@ The original project can de find on github and was created by [laura960](https:/
 #### Cloning the project
 To clone this project you can run:
 ```shell
-git clone [url]
+git clone https://github.com/Pixel-Tux/not-eat-yet-L.git
 ```
 #### Publishing Sail's .yml
 After the project has been cloned, you may run the sail:install Artisan command. This command will publish Sail's docker-compose.yml file to the
