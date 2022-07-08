@@ -1,5 +1,4 @@
-<h1 align="center" style="color:#FF6600">NotEatYetL</h1>
-
+# NotEatYetL
 ### About NotEatYetL
 
 NotEatYetL intended to be a copy, developed in Laravel, of the academic project [Not-eat-yet]((https://github.com/laura960/not-eat-yet)).
@@ -21,7 +20,7 @@ php artisan sail:install
 Instead of repeatedly typing `vendor/bin/sail` to execute Sail commands, you may wish to configure a Bash alias that allows you to execute
 Sail's commands more easily:
 ```shell
-sudo -s alias sail='[ -f sail ] && bash sail || bash vendor/bin/sail'
+alias sail='[ -f sail ] && bash sail || bash vendor/bin/sail'
 ```
 
 #### Starting & Stopping Sail
