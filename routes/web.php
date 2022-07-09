@@ -107,3 +107,7 @@ Route::get('/old/rispondi', function () {
 });
 
 //  <Old end
+
+Route::get('/', function () {
+    return view('welcome');
+});
